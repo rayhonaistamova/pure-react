@@ -1,0 +1,26 @@
+{
+  "name": "pure-resct",
+  "version": "1.0.0",
+  "description": "\"pure react init\"",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js, jsx}",
+    "lint": "eslint \"src//**/*.js, jsx --quite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhonaistamova/pure-react.git"
+  },
+  "author": "Istamova Raykhona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhonaistamova/pure-react/issues"
+  },
+  "homepage": "https://github.com/rayhonaistamova/pure-react#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}
